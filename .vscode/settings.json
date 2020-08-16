@@ -1,0 +1,8 @@
+{
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+    "editor.formatOnSave": true,
+    "files.autoGuessEncoding": true,
+    "editor.wordWrap": "wordWrapColumn"
+}
